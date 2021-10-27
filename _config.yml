@@ -1,0 +1,59 @@
+baseurl: ''
+exclude: ['README.md']
+include: [_pages]
+permalink: pretty
+title: 'Cloud Explore'
+
+google_analytics_id: null
+homepage:
+  show_call_box: true
+logo:
+  mobile: "images/logo/gs-logo-mobile.svg"
+  desktop: "images/logo/gs-logo.svg"
+  desktop_height: "70px"
+  mobile_height: "50px"
+footer:
+  copyright_text: 'Copyright Cloud Explore 2021. Liability limited by a scheme approved under Professional Standards Legislation.'
+
+seo:
+  meta_og_title: "Cloud Explore"
+  meta_og_type: "website"
+  meta_og_url: "https://cloudexplore.it"
+  meta_og_image: "https://github.com/cloud-explore/cloudexplore.it/blob/master/screenshots/gs_title_image.png?raw=true"
+  meta_og_description: "Cloud Explore."
+  meta_twitter_card: "summary"
+  meta_twitter_site: "@twitter"
+  meta_twitter_creator: "@twitter"
+
+collections:
+  services:
+    output: true
+    permalink: /services/:path/
+  team:
+    output: true
+    permalink: /team/:path/
+
+defaults:
+  - scope:
+      type: services
+    values:
+      layout: service
+      bodyClass: page-services-single
+  - scope:
+      path: 'images'
+    values:
+      image: true
+  - scope:
+      type: posts
+      path: _posts
+    values:
+      is_post: true
+      layout: post
+      permalink: /blog/:categories/:title/
+  
+
+sass:
+  style: compact # possible values: nested expanded compact compressed
+
+plugins:
+  - jekyll-environment-variables

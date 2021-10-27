@@ -1,0 +1,12 @@
+[
+  {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/company/graphene-security/",
+    "image": "images/social/linkedin.svg"
+  },
+  {
+    "name": "Twitter",
+    "link": "https://twitter.com/graphenesec",
+    "image": "images/social/twitter.svg"
+  }
+]
