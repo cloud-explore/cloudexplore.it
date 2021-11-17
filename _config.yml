@@ -9,7 +9,7 @@ homepage:
   show_call_box: true
 logo:
   mobile: "images/logo/gs-logo-mobile.svg"
-  desktop: "images/logo/gs-logo.svg"
+  desktop: "images/logo/logo.png"
   desktop_height: "70px"
   mobile_height: "50px"
 footer:

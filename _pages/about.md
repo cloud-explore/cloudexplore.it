@@ -5,7 +5,7 @@ layout: 'page'
 permalink: /about/
 ---
 
-We are a Melbourne-based cyber security design and consulting company. We work with our clients to create tailored, effective and pragmatic solutions that allow them to navigate a complex world with confidence and clarity.
+We are a Chisinau-based training & consultancy company. We work with our clients to create tailored, effective and pragmatic solutions that allow them to navigate a complex world with confidence and clarity.
 
 Our approach is based on the principle that security should be strong and light; strong enough to manage risk within acceptable limits, while placing no more demand on people and resources than necessary. We emphasise targeted, threat-based mitigations over sweeping framework-based approaches, and we are driven by a genuine desire to improve our clients' security.
 
@@ -26,7 +26,7 @@ We care about our clients and are committed to providing the best possible outco
 Our organisation was founded to provide a sense of purpose and contribution. Staying true to this is a core value.
 
 ### Optimistic
-We are pragmatic but resourceful. Cyber security is challenging but we can handle it. We empathise with our clients and the teams involved, and work with them to solve problems.
+We are pragmatic but resourceful. We empathise with our clients and the teams involved, and work with them to solve problems.
 
 ### Authentic
 We bring our whole selves to work and embrace diversity of thought, approach and background.
