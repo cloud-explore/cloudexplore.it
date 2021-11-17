@@ -8,9 +8,10 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Consulting and improving your skills & solution architecture in cloud.
+# Consulting your solution architecture in cloud.
 
-Cloud Explore IT is a training and consulting company for enterprise multi-cloud infrastructure
+Cloud Explore IT is a training and consulting company for enterprise multi-cloud infrastructure.
 
-Enterprise DevOps, Microsoft Azure, Microservices, Containers, Cloud Security and more.
-From the fundamentals to advanced scenario training, Devartcore  empowers organizations with the skills, critical thinking, and hands-on experience needed to discover, deploy, and optimize the multi-cloud.
+We can improving your team skill for getting certified and solve outstanding questions related to your cloud architecture design.
+
+Expertise in areas such as Enterprise DevOps, Microsoft Azure, Microservices, Containers, Cloud Security and more.
