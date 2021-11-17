@@ -8,8 +8,9 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Grow and thrive in an uncertain world.
+# Consulting and improving your skills & solution architecture in cloud.
 
-Cloud Explore is a cyber security design and consulting company.
+Cloud Explore IT is a training and consulting company for enterprise multi-cloud infrastructure
 
-We embrace the complexity of cyber security so you can focus on delivering your purpose with confidence.
+Enterprise DevOps, Microsoft Azure, Microservices, Containers, Cloud Security and more.
+From the fundamentals to advanced scenario training, Devartcore  empowers organizations with the skills, critical thinking, and hands-on experience needed to discover, deploy, and optimize the multi-cloud.
